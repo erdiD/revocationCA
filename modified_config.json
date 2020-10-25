@@ -1,0 +1,24 @@
+{
+  "revocation_list": [
+    "LS0tLS1CRUdJTiBYNTA5IENSTC0tLS0tCk1JSUJsVENDQVRzQ0FRRXdDZ1lJS29aSXpqMEVBd0l3Y0RFTE1Ba0dBMVVFQmhNQ1ZWTXhGekFWQmdOVkJBZ1QKRGs1dmNuUm9JRU5oY205c2FXNWhNUTh3RFFZRFZRUUhFd1pFZFhKb1lXMHhHVEFYQmdOVkJBb1RFRzl5WnpFdQpaWGhoYlhCc1pTNWpiMjB4SERBYUJnTlZCQU1URTJOaExtOXlaekV1WlhoaGJYQnNaUzVqYjIwWERUSXdNVEF5Ck1qSXhNekV6TUZvWERUSXdNVEF5TXpJeE16RXpNRm93ZFRBbEFoUjFQaGJmSDNudUtEemRLRVZvdEM0OS9aL3oKZ3hjTk1qQXhNREl5TWpFek1URXpXakFsQWhRbFBXSWoyMStkSlVhS0dxdjFBTmpFU09IbURSY05NakF4TURJeQpNakV6TVRFeldqQWxBaFIvU0hMc2R1cmlPM09DKytsZkdnRU1ack5yUFJjTk1qQXhNREl5TWpFeU1qRTNXcUFqCk1DRXdId1lEVlIwakJCZ3dGb0FVK2t5T0d6UjI1aXNMUDlpeDl5SjZjUmthb0RFd0NnWUlLb1pJemowRUF3SUQKU0FBd1JRSWhBUC9WelkvQ2g3RFVPNUx1elgxOXZlam1BQ3JsWExhQmtSQ3RTdERwRHlUUkFpQUlMTlJXbDl1dwpMOUtURy9sRU1IL254bEtVTHdhcnNLQzh6b3F4TEU0d2lBPT0KLS0tLS1FTkQgWDUwOSBDUkwtLS0tLQo="
+  ],
+  "channel_group": {
+    "groups": {
+      "Application": {
+        "groups": {
+          "Org1MSP": {
+            "values": {
+              "MSP": {
+                "value": {
+                  "config": {
+                    "revocation_list": "[1]"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
